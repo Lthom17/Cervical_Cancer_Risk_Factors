@@ -1,6 +1,6 @@
 ## Summary
 
-For this project, I looked at a dataset that included patient information on factors that may be associated with cervical cancer risk.  I explored the factors of age, hormonal contraception, HPV diagnosis, number of pregnancies and smoking habits.  What I found in my research is that there seems to be a strong relationship between a women being HPV positive and cervical cancer risk.  Additionally, age and having been pregnant at least one time seem to have a positive correalation with cervical cancer risk.  The use of hormonal contraceptives had a slightly positive correaltion to cervical cancer risk but I would like to run statistical analysis on this data to see if the differences were significant.
+For this project, I looked at a dataset that included patient information on factors that may be associated with cervical cancer risk.  I explored the factors of age, hormonal contraception, HPV diagnosis, number of pregnancies and smoking habits.  What I found in my research is that there seems to be a strong relationship between a women being HPV positive and cervical cancer risk.  Additionally, age and having been pregnant at least one time seem to have a positive correlation with cervical cancer risk.  The use of hormonal contraceptives had a slightly positive correlation to cervical cancer risk but I would like to run statistical analysis on this data to see if the differences were significant.
 
 
 
